@@ -1,6 +1,6 @@
 name: graphist_wiki_data
 description: Graphist implementation for Wiki data.
-version: 0.1.0
+version: 0.2.0
 homepage: https://github.com/amin-ahmadi-com/graphist_wiki_data
 
 environment:
@@ -11,13 +11,15 @@ dependencies:
   flutter:
     sdk: flutter
   http: ^0.13.5
-  graphist: ^0.2.0
+  graphist: ^0.2.5
   tuple: ^2.0.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^2.0.0
+  mockito: ^5.3.2
+  build_runner: ^2.3.2
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

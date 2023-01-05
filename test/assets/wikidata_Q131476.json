@@ -1,0 +1,2505 @@
+{
+  "entities": {
+    "Q131476": {
+      "pageid": 133329,
+      "ns": 0,
+      "title": "Q131476",
+      "lastrevid": 1778362213,
+      "modified": "2022-11-24T22:59:26Z",
+      "type": "item",
+      "id": "Q131476",
+      "labels": {
+        "zh-hans": {
+          "language": "zh-hans",
+          "value": "\u56fe\u8bba"
+        },
+        "zh-hant": {
+          "language": "zh-hant",
+          "value": "\u5716\u8ad6"
+        },
+        "zh-hk": {
+          "language": "zh-hk",
+          "value": "\u5716\u8ad6"
+        },
+        "zh-cn": {
+          "language": "zh-cn",
+          "value": "\u56fe\u8bba"
+        },
+        "zh-sg": {
+          "language": "zh-sg",
+          "value": "\u56fe\u8bba"
+        },
+        "zh-tw": {
+          "language": "zh-tw",
+          "value": "\u5716\u8ad6"
+        },
+        "eu": {
+          "language": "eu",
+          "value": "Grafo teoria"
+        },
+        "pl": {
+          "language": "pl",
+          "value": "teoria graf\u00f3w"
+        },
+        "bs": {
+          "language": "bs",
+          "value": "Teorija grafikona"
+        },
+        "es": {
+          "language": "es",
+          "value": "teor\u00eda de grafos"
+        },
+        "ms": {
+          "language": "ms",
+          "value": "teori graf"
+        },
+        "hu": {
+          "language": "hu",
+          "value": "gr\u00e1felm\u00e9let"
+        },
+        "et": {
+          "language": "et",
+          "value": "Graafiteooria"
+        },
+        "bn": {
+          "language": "bn",
+          "value": "\u0997\u09cd\u09b0\u09be\u09ab \u09a4\u09a4\u09cd\u09a4\u09cd\u09ac"
+        },
+        "el": {
+          "language": "el",
+          "value": "\u0398\u03b5\u03c9\u03c1\u03af\u03b1 \u03b3\u03c1\u03ac\u03c6\u03c9\u03bd"
+        },
+        "mt": {
+          "language": "mt",
+          "value": "teorija tal-grafi"
+        },
+        "am": {
+          "language": "am",
+          "value": "\u1225\u1290 \u130d\u122b\u134d"
+        },
+        "sv": {
+          "language": "sv",
+          "value": "grafteori"
+        },
+        "ar": {
+          "language": "ar",
+          "value": "\u0646\u0638\u0631\u064a\u0629 \u0627\u0644\u0628\u064a\u0627\u0646"
+        },
+        "nl": {
+          "language": "nl",
+          "value": "grafentheorie"
+        },
+        "pt": {
+          "language": "pt",
+          "value": "teoria de grafos"
+        },
+        "is": {
+          "language": "is",
+          "value": "Netafr\u00e6\u00f0i"
+        },
+        "eo": {
+          "language": "eo",
+          "value": "grafeteorio"
+        },
+        "ru": {
+          "language": "ru",
+          "value": "\u0442\u0435\u043e\u0440\u0438\u044f \u0433\u0440\u0430\u0444\u043e\u0432"
+        },
+        "sr-el": {
+          "language": "sr-el",
+          "value": "Teorija grafova"
+        },
+        "sr-ec": {
+          "language": "sr-ec",
+          "value": "\u0422\u0435\u043e\u0440\u0438\u0458\u0430 \u0433\u0440\u0430\u0444\u043e\u0432\u0430"
+        },
+        "tr": {
+          "language": "tr",
+          "value": "\u00c7izge Kuram\u0131"
+        },
+        "fi": {
+          "language": "fi",
+          "value": "graafiteoria"
+        },
+        "uk": {
+          "language": "uk",
+          "value": "\u0442\u0435\u043e\u0440\u0456\u044f \u0433\u0440\u0430\u0444\u0456\u0432"
+        },
+        "nn": {
+          "language": "nn",
+          "value": "grafteori"
+        },
+        "tl": {
+          "language": "tl",
+          "value": "Teoriya ng grapo"
+        },
+        "da": {
+          "language": "da",
+          "value": "grafteori"
+        },
+        "an": {
+          "language": "an",
+          "value": "Teor\u00eda de grafos"
+        },
+        "kk-arab": {
+          "language": "kk-arab",
+          "value": "\u06af\u0631\u0627\u0641"
+        },
+        "kk-cn": {
+          "language": "kk-cn",
+          "value": "\u06af\u0631\u0627\u0641"
+        },
+        "kk-tr": {
+          "language": "kk-tr",
+          "value": "Graf"
+        },
+        "kk-kz": {
+          "language": "kk-kz",
+          "value": "\u0413\u0440\u0430\u0444"
+        },
+        "kk-cyrl": {
+          "language": "kk-cyrl",
+          "value": "\u0413\u0440\u0430\u0444"
+        },
+        "kk-latn": {
+          "language": "kk-latn",
+          "value": "Graf"
+        },
+        "ko": {
+          "language": "ko",
+          "value": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        "he": {
+          "language": "he",
+          "value": "\u05ea\u05d5\u05e8\u05ea \u05d4\u05d2\u05e8\u05e4\u05d9\u05dd"
+        },
+        "fr": {
+          "language": "fr",
+          "value": "th\u00e9orie des graphes"
+        },
+        "it": {
+          "language": "it",
+          "value": "teoria dei grafi"
+        },
+        "id": {
+          "language": "id",
+          "value": "teori graf"
+        },
+        "de": {
+          "language": "de",
+          "value": "Graphentheorie"
+        },
+        "ja": {
+          "language": "ja",
+          "value": "\u30b0\u30e9\u30d5\u7406\u8ad6"
+        },
+        "vi": {
+          "language": "vi",
+          "value": "l\u00fd thuy\u1ebft \u0111\u1ed3 th\u1ecb"
+        },
+        "en": {
+          "language": "en",
+          "value": "graph theory"
+        },
+        "scn": {
+          "language": "scn",
+          "value": "Tiuria d\u00ee grafi"
+        },
+        "hi": {
+          "language": "hi",
+          "value": "\u0917\u094d\u0930\u093e\u092b\u093c \u0938\u093f\u0926\u094d\u0927\u093e\u0928\u094d\u0924"
+        },
+        "tg-latn": {
+          "language": "tg-latn",
+          "value": "Nazarijai grafho"
+        },
+        "sk": {
+          "language": "sk",
+          "value": "Te\u00f3ria grafov"
+        },
+        "mn": {
+          "language": "mn",
+          "value": "\u0413\u0440\u0430\u0444\u044b\u043d \u043e\u043d\u043e\u043b"
+        },
+        "hy": {
+          "language": "hy",
+          "value": "\u0563\u0580\u0561\u0586\u0576\u0565\u0580\u056b \u057f\u0565\u057d\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
+        },
+        "th": {
+          "language": "th",
+          "value": "\u0e17\u0e24\u0e29\u0e0e\u0e35\u0e01\u0e23\u0e32\u0e1f"
+        },
+        "ro": {
+          "language": "ro",
+          "value": "teoria grafurilor"
+        },
+        "ca": {
+          "language": "ca",
+          "value": "teoria de grafs"
+        },
+        "cy": {
+          "language": "cy",
+          "value": "damcaniaeth graffiau"
+        },
+        "sl": {
+          "language": "sl",
+          "value": "Teorija grafov"
+        },
+        "cs": {
+          "language": "cs",
+          "value": "teorie graf\u016f"
+        },
+        "bg": {
+          "language": "bg",
+          "value": "\u0422\u0435\u043e\u0440\u0438\u044f \u043d\u0430 \u0433\u0440\u0430\u0444\u0438\u0442\u0435"
+        },
+        "fa": {
+          "language": "fa",
+          "value": "\u0646\u0638\u0631\u06cc\u0647 \u06af\u0631\u0627\u0641"
+        },
+        "ur": {
+          "language": "ur",
+          "value": "\u0646\u0638\u0631\u06cc\u06c2 \u0645\u062e\u0637\u0637"
+        },
+        "lt": {
+          "language": "lt",
+          "value": "Graf\u0173 teorija"
+        },
+        "kk": {
+          "language": "kk",
+          "value": "\u0413\u0440\u0430\u0444"
+        },
+        "sr": {
+          "language": "sr",
+          "value": "\u0442\u0435\u043e\u0440\u0438\u0458\u0430 \u0433\u0440\u0430\u0444\u043e\u0432\u0430"
+        },
+        "zh": {
+          "language": "zh",
+          "value": "\u5716\u8ad6"
+        },
+        "tg": {
+          "language": "tg",
+          "value": "\u041d\u0430\u0437\u0430\u0440\u0438\u044f\u0438 \u0433\u0440\u0430\u0444\u04b3\u043e"
+        },
+        "sh": {
+          "language": "sh",
+          "value": "Teorija grafova"
+        },
+        "lv": {
+          "language": "lv",
+          "value": "grafu teorija"
+        },
+        "nb": {
+          "language": "nb",
+          "value": "grafteori"
+        },
+        "pt-br": {
+          "language": "pt-br",
+          "value": "teoria dos grafos"
+        },
+        "mk": {
+          "language": "mk",
+          "value": "\u0442\u0435\u043e\u0440\u0438\u0458\u0430 \u043d\u0430 \u0433\u0440\u0430\u0444\u043e\u0432\u0438\u0442\u0435"
+        },
+        "be": {
+          "language": "be",
+          "value": "\u0442\u044d\u043e\u0440\u044b\u044f \u0433\u0440\u0430\u0444\u0430\u045e"
+        },
+        "ka": {
+          "language": "ka",
+          "value": "\u10d2\u10e0\u10d0\u10e4\u10d7\u10d0 \u10d7\u10d4\u10dd\u10e0\u10d8\u10d0"
+        },
+        "gl": {
+          "language": "gl",
+          "value": "Teor\u00eda de grafos"
+        },
+        "yue": {
+          "language": "yue",
+          "value": "\u5716\u8ad6"
+        },
+        "cv": {
+          "language": "cv",
+          "value": "\u0413\u0440\u0430\u0444\u0441\u0435\u043d \u0442\u0435\u043e\u0440\u0438\u0439\u0115"
+        },
+        "ast": {
+          "language": "ast",
+          "value": "Teor\u00eda de grafos"
+        },
+        "ba": {
+          "language": "ba",
+          "value": "\u0433\u0440\u0430\u0444\u0442\u0430\u0440 \u0442\u0435\u043e\u0440\u0438\u044f\u04bb\u044b"
+        },
+        "ckb": {
+          "language": "ckb",
+          "value": "\u0628\u06cc\u0631\u062f\u06c6\u0632\u06cc \u06af\u0631\u0627\u0641"
+        },
+        "ky": {
+          "language": "ky",
+          "value": "\u0413\u0440\u0430\u0444\u0442\u0430\u0440 \u0442\u0435\u043e\u0440\u0438\u044f\u0441\u044b"
+        },
+        "wuu": {
+          "language": "wuu",
+          "value": "\u56fe\u8bba"
+        },
+        "ga": {
+          "language": "ga",
+          "value": "graiftheoiric"
+        },
+        "hr": {
+          "language": "hr",
+          "value": "Teorija grafova"
+        },
+        "ta": {
+          "language": "ta",
+          "value": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bc1\u0bb5\u0bbf\u0baf\u0bb2\u0bcd"
+        },
+        "az": {
+          "language": "az",
+          "value": "qraf n\u0259z\u0259riyy\u0259si"
+        },
+        "vec": {
+          "language": "vec",
+          "value": "teoria dei grafi"
+        },
+        "be-tarask": {
+          "language": "be-tarask",
+          "value": "\u0442\u044d\u043e\u0440\u044b\u044f \u0433\u0440\u0430\u0444\u0430\u045e"
+        }
+      },
+      "descriptions": {
+        "en": {
+          "language": "en",
+          "value": "study of graphs, which are mathematical structures used to model pairwise relations between objects"
+        },
+        "es": {
+          "language": "es",
+          "value": "campo de estudio de las matem\u00e1ticas y las ciencias de la computaci\u00f3n"
+        },
+        "de": {
+          "language": "de",
+          "value": "Teilgebiet der diskreten Mathematik und der theoretischen Informatik"
+        },
+        "ca": {
+          "language": "ca",
+          "value": "camp d'estudi de les matem\u00e0tiques i les ci\u00e8ncies de la computaci\u00f3"
+        },
+        "it": {
+          "language": "it",
+          "value": "branca della geometria combinatoria che si occupa di studiare i grafi, strutture matematiche costituite da vertici collegati fra loro da archi"
+        },
+        "id": {
+          "language": "id",
+          "value": "kajian grafik yang struktur matematika digunakan untuk model hubungan berpasangan antarobjek"
+        },
+        "pt": {
+          "language": "pt",
+          "value": "estudo de grafos, que s\u00e3o estruturas matem\u00e1ticas utilizadas para modelar rela\u00e7\u00f5es entre pares de objetos"
+        },
+        "he": {
+          "language": "he",
+          "value": "\u05e2\u05e0\u05e3 \u05d1\u05de\u05ea\u05de\u05d8\u05d9\u05e7\u05d4"
+        },
+        "eu": {
+          "language": "eu",
+          "value": "Grafoen propietateak matematikoki aztertzen dituen matematikaren atala. Grafo-teoria Eulerrek sortu zuen, K\u00f6nigsbergeko zubien problema ebatzi zuenean."
+        },
+        "sr": {
+          "language": "sr",
+          "value": "\u043e\u0431\u043b\u0430\u0441\u0442 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0435, \u043a\u043e\u0458\u0430 \u0438\u0437\u0443\u0447\u0430\u0432\u0430 \u0433\u0440\u0430\u0444\u043e\u0432\u0435"
+        },
+        "ru": {
+          "language": "ru",
+          "value": "\u0440\u0430\u0437\u0434\u0435\u043b \u0434\u0438\u0441\u043a\u0440\u0435\u0442\u043d\u043e\u0439 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0438, \u0438\u0437\u0443\u0447\u0430\u044e\u0449\u0438\u0439 \u0441\u0432\u043e\u0439\u0441\u0442\u0432\u0430 \u0433\u0440\u0430\u0444\u043e\u0432"
+        },
+        "ba": {
+          "language": "ba",
+          "value": "\u0434\u0438\u0441\u043a\u0440\u0435\u0442\u043b\u044b \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430\u043d\u044b\u04a3 \u0433\u0440\u0430\u0444\u0442\u0430\u0440 \u04af\u0499\u0435\u043d\u0441\u04d9\u043b\u0435\u043a\u0442\u04d9\u0440\u0435\u043d \u04e9\u0439\u0440\u04d9\u043d\u0435\u04af\u0441\u0435 \u0431\u04af\u043b\u0435\u0433\u0435"
+        },
+        "fr": {
+          "language": "fr",
+          "value": "branche des math\u00e9matiques et de l'informatique \u00e9tudiant les graphes"
+        },
+        "nl": {
+          "language": "nl",
+          "value": "deelgebied van de wiskunde dat de eigenschappen van grafen bestudeert"
+        },
+        "zh": {
+          "language": "zh",
+          "value": "\u7814\u7a76\u5c0d\u8c61\u70ba\u5716\u7684\u6578\u5b78\u7406\u8ad6"
+        },
+        "zh-cn": {
+          "language": "zh-cn",
+          "value": "\u4ee5\u56fe\u4e3a\u7814\u7a76\u5bf9\u8c61\u7684\u6570\u5b66\u7406\u8bba"
+        },
+        "zh-hans": {
+          "language": "zh-hans",
+          "value": "\u4ee5\u56fe\u4e3a\u7814\u7a76\u5bf9\u8c61\u7684\u6570\u5b66\u7406\u8bba"
+        },
+        "ja": {
+          "language": "ja",
+          "value": "\u30b0\u30e9\u30d5\u306b\u95a2\u3059\u308b\u6570\u5b66\u7406\u8ad6"
+        },
+        "eo": {
+          "language": "eo",
+          "value": "matematika studfako"
+        },
+        "pt-br": {
+          "language": "pt-br",
+          "value": "estudo de grafos, que s\u00e3o estruturas matem\u00e1ticas utilizadas para modelar rela\u00e7\u00f5es entre pares de objetos"
+        },
+        "cy": {
+          "language": "cy",
+          "value": "yr astudiaeth o graffiau"
+        },
+        "be-tarask": {
+          "language": "be-tarask",
+          "value": "\u0433\u0430\u043b\u0456\u043d\u0430 \u0434\u044b\u0441\u043a\u0440\u044d\u0442\u043d\u0430\u0439 \u043c\u0430\u0442\u044d\u043c\u0430\u0442\u044b\u043a\u0456, \u044f\u043a\u0430\u044f \u0432\u044b\u0432\u0443\u0447\u0430\u0435 \u045e\u043b\u0430\u0441\u044c\u0446\u0456\u0432\u0430\u0441\u044c\u0446\u0456 \u0433\u0440\u0430\u0444\u0430\u045e"
+        },
+        "pl": {
+          "language": "pl",
+          "value": "dzia\u0142 matematyki dyskretnej"
+        },
+        "ko": {
+          "language": "ko",
+          "value": "\uc218\ud559 \uad6c\uc870\ub85c\uc11c\uc758 \uadf8\ub798\ud504\uc5d0 \ub300\ud55c \uc5f0\uad6c"
+        }
+      },
+      "aliases": {
+        "zh": [
+          {
+            "language": "zh",
+            "value": "\u56fe\u8bba"
+          }
+        ],
+        "eu": [
+          {
+            "language": "eu",
+            "value": "Grafoen teoria"
+          },
+          {
+            "language": "eu",
+            "value": "Grafo-teoria"
+          }
+        ],
+        "es": [
+          {
+            "language": "es",
+            "value": "teor\u00eda de los grafos"
+          },
+          {
+            "language": "es",
+            "value": "teor\u00eda de gr\u00e1ficas"
+          },
+          {
+            "language": "es",
+            "value": "teor\u00eda de redes"
+          },
+          {
+            "language": "es",
+            "value": "teor\u00eda de las gr\u00e1ficas"
+          },
+          {
+            "language": "es",
+            "value": "teoria de grafos"
+          },
+          {
+            "language": "es",
+            "value": "teoria de los grafos"
+          },
+          {
+            "language": "es",
+            "value": "teoria de graficas"
+          },
+          {
+            "language": "es",
+            "value": "teoria de redes"
+          },
+          {
+            "language": "es",
+            "value": "teoria de las graficas"
+          }
+        ],
+        "el": [
+          {
+            "language": "el",
+            "value": "\u0398\u03b5\u03c9\u03c1\u03af\u03b1 \u03b3\u03c1\u03b1\u03c6\u03b7\u03bc\u03ac\u03c4\u03c9\u03bd"
+          }
+        ],
+        "ar": [
+          {
+            "language": "ar",
+            "value": "\u0646\u0638\u0631\u064a\u0647 \u0627\u0644\u0645\u062e\u0637\u0637\u0627\u062a"
+          },
+          {
+            "language": "ar",
+            "value": "\u0645\u062e\u0637\u0637\u0627\u062a"
+          },
+          {
+            "language": "ar",
+            "value": "\u0645\u062e\u0637\u0637"
+          },
+          {
+            "language": "ar",
+            "value": "\u0645\u062e\u0637\u0637 \u063a\u064a\u0631 \u0645\u0648\u062c\u0647"
+          }
+        ],
+        "nl": [
+          {
+            "language": "nl",
+            "value": "Grafen"
+          },
+          {
+            "language": "nl",
+            "value": "Gerichte graaf"
+          },
+          {
+            "language": "nl",
+            "value": "Graaf"
+          }
+        ],
+        "ru": [
+          {
+            "language": "ru",
+            "value": "\u0433\u0440\u0430\u0444\u043e\u0432 \u0442\u0435\u043e\u0440\u0438\u044f"
+          }
+        ],
+        "tr": [
+          {
+            "language": "tr",
+            "value": "Graf teorisi"
+          },
+          {
+            "language": "tr",
+            "value": "\u00c7izge Teorisi"
+          }
+        ],
+        "tl": [
+          {
+            "language": "tl",
+            "value": "Teoriya ng grap"
+          },
+          {
+            "language": "tl",
+            "value": "Teoriya ng talangguhit"
+          },
+          {
+            "language": "tl",
+            "value": "Teoriyang grap"
+          },
+          {
+            "language": "tl",
+            "value": "Graph theory"
+          },
+          {
+            "language": "tl",
+            "value": "Teoriyang talaguhitan"
+          },
+          {
+            "language": "tl",
+            "value": "Teoriyang talangguhit"
+          },
+          {
+            "language": "tl",
+            "value": "Teoriang graph"
+          },
+          {
+            "language": "tl",
+            "value": "Teoriyang graph"
+          },
+          {
+            "language": "tl",
+            "value": "Teoriang grap"
+          },
+          {
+            "language": "tl",
+            "value": "Teoriya ng grapa"
+          },
+          {
+            "language": "tl",
+            "value": "Graph"
+          },
+          {
+            "language": "tl",
+            "value": "Teoriang grapo"
+          },
+          {
+            "language": "tl",
+            "value": "Teoriyang grapo"
+          },
+          {
+            "language": "tl",
+            "value": "Teoriang talaguhitan"
+          }
+        ],
+        "an": [
+          {
+            "language": "an",
+            "value": "Tior\u00eda de grafos"
+          }
+        ],
+        "ko": [
+          {
+            "language": "ko",
+            "value": "\uadf8\ub77c\ud504\ub9ac\ub860"
+          },
+          {
+            "language": "ko",
+            "value": "\uadf8\ub77c\ud504 \ub9ac\ub860"
+          },
+          {
+            "language": "ko",
+            "value": "\uadf8\ub798\ud504\uc774\ub860"
+          }
+        ],
+        "fr": [
+          {
+            "language": "fr",
+            "value": "theorie des graphes"
+          }
+        ],
+        "de": [
+          {
+            "language": "de",
+            "value": "Graphentheoretisch"
+          }
+        ],
+        "ja": [
+          {
+            "language": "ja",
+            "value": "\u5b8c\u5168\u30b0\u30e9\u30d5"
+          },
+          {
+            "language": "ja",
+            "value": "\u7121\u5411\u30b0\u30e9\u30d5"
+          },
+          {
+            "language": "ja",
+            "value": "\u6709\u5411\u30b0\u30e9\u30d5"
+          },
+          {
+            "language": "ja",
+            "value": "\u81ea\u5df1\u9589\u8def"
+          },
+          {
+            "language": "ja",
+            "value": "\u78ba\u7387\u4f1d\u64ad\u6cd5"
+          },
+          {
+            "language": "ja",
+            "value": "\u5358\u7d14\u30b0\u30e9\u30d5"
+          }
+        ],
+        "vi": [
+          {
+            "language": "vi",
+            "value": "l\u00ed thuy\u1ebft \u0111\u1ed3 th\u1ecb"
+          }
+        ],
+        "scn": [
+          {
+            "language": "scn",
+            "value": "Tiur\u00eca d\u00ee grafi"
+          },
+          {
+            "language": "scn",
+            "value": "Tiur\u00eca d\u00ea grafi"
+          }
+        ],
+        "hi": [
+          {
+            "language": "hi",
+            "value": "\u0917\u094d\u0930\u093e\u092b \u0938\u093f\u0926\u094d\u0927\u093e\u0928\u094d\u0924"
+          }
+        ],
+        "hy": [
+          {
+            "language": "hy",
+            "value": "\u0533\u0580\u0561\u0586\u0565\u0580\u056b \u057f\u0565\u057d\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
+          }
+        ],
+        "th": [
+          {
+            "language": "th",
+            "value": "\u0e17\u0e24\u0e29\u0e0f\u0e35\u0e01\u0e23\u0e32\u0e1f"
+          }
+        ],
+        "ca": [
+          {
+            "language": "ca",
+            "value": "Teoria dels grafs"
+          }
+        ],
+        "cy": [
+          {
+            "language": "cy",
+            "value": "Haniaeth graffiau"
+          }
+        ],
+        "fa": [
+          {
+            "language": "fa",
+            "value": "\u062a\u0626\u0648\u0631\u06cc \u06af\u0631\u0627\u0641"
+          },
+          {
+            "language": "fa",
+            "value": "\u06af\u0631\u0627\u0641\u200c\u0647\u0627"
+          },
+          {
+            "language": "fa",
+            "value": "\u0646\u0638\u0631\u06cc\u0647\u0654 \u06af\u0631\u0627\u0641"
+          }
+        ],
+        "ur": [
+          {
+            "language": "ur",
+            "value": "Graph theory"
+          }
+        ],
+        "pt-br": [
+          {
+            "language": "pt-br",
+            "value": "teoria de grafos"
+          }
+        ],
+        "eo": [
+          {
+            "language": "eo",
+            "value": "grafteorio"
+          },
+          {
+            "language": "eo",
+            "value": "teorio de grafoj"
+          }
+        ],
+        "en": [
+          {
+            "language": "en",
+            "value": "theory of graphs"
+          }
+        ]
+      },
+      "claims": {
+        "P279": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P279",
+              "hash": "274b1a272d0354e2bd56e2a8761e628ec17fde31",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 17737,
+                  "id": "Q17737"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q131476$f86b02f3-4c85-0ac9-0d05-54e740287ed4",
+            "rank": "normal"
+          }
+        ],
+        "P361": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P361",
+              "hash": "c3a4051a6788e5421abd81871bce80fa2a61ee08",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 121416,
+                  "id": "Q121416"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "q131476$62F40C8B-14D6-46B6-8D8C-89633476BAC7",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "8aaa6ef74b44a840940bc601d859f4e51096454f",
+                "snaks": {
+                  "P1683": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1683",
+                      "hash": "8db2d04cb11556d16417a8a30bf74777634152a9",
+                      "datavalue": {
+                        "value": {
+                          "text": "Discrete Mathematics > Graph Theory",
+                          "language": "en"
+                        },
+                        "type": "monolingualtext"
+                      },
+                      "datatype": "monolingualtext"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "f5c15c86b4a9c949af06fd355fa95380d0c5a849",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2018-01-19T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ],
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "670d48eebfc196f0fc668887211a2a5ffcc7b20d",
+                      "datavalue": {
+                        "value": "http://mathworld.wolfram.com/topics/GraphTheory.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P1683",
+                  "P813",
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P361",
+              "hash": "aaf0ebbd28ad2d727b242e185bd404863299610d",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 21198,
+                  "id": "Q21198"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q131476$47f9591a-4d19-952d-1352-6ebec019897d",
+            "rank": "normal"
+          }
+        ],
+        "P373": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P373",
+              "hash": "d96c734c1598b0128cb42e25173a36c40103bed9",
+              "datavalue": {
+                "value": "Graph theory",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "q131476$A3CF28B6-FF79-4D36-9CC1-1C86F3F500CE",
+            "rank": "normal"
+          }
+        ],
+        "P910": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P910",
+              "hash": "b89e75c30ce4af214f506c7d43522d567f1ee19b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 7217283,
+                  "id": "Q7217283"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q131476$4EF9276A-DBD5-46E2-BCDF-10C8E8389F08",
+            "rank": "normal"
+          }
+        ],
+        "P349": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P349",
+              "hash": "8969fe41495c49fc41dda89ce9010fbc6d2c9752",
+              "datavalue": {
+                "value": "00562641",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q131476$5ED3B69F-C2BD-4559-88A6-DA91163894FA",
+            "rank": "normal"
+          }
+        ],
+        "P646": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P646",
+              "hash": "cc8099248470da8122fbee54170d2542813fea8d",
+              "datavalue": {
+                "value": "/m/0382k",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q131476$44D0AB5B-7627-430F-835C-435C13FDEACA",
+            "rank": "normal"
+          }
+        ],
+        "P227": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P227",
+              "hash": "bc6daee0de13ec48e3404c0e6f6c6b703d165b41",
+              "datavalue": {
+                "value": "4113782-6",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P1810": [
+                {
+                  "snaktype": "value",
+                  "property": "P1810",
+                  "hash": "74061f15e97b93b746eea513cb1f50eba8019204",
+                  "datavalue": {
+                    "value": "Graphentheorie",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P1810"
+            ],
+            "id": "Q131476$d28b5ecc-482f-5abd-5cd9-1f3fa14183f4",
+            "rank": "normal"
+          }
+        ],
+        "P1482": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1482",
+              "hash": "f9955636d75be80b97497323023dc7f181f7499f",
+              "datavalue": {
+                "value": "https://stackoverflow.com/tags/graph-theory",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q131476$F1EC2A47-F8F1-4AD0-9DD9-3754E83226A5",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1482",
+              "hash": "9888d801b0af8f43e6290fd92a2182220b77c5cc",
+              "datavalue": {
+                "value": "https://cs.stackexchange.com/tags/graph-theory",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q131476$f42646f0-4d63-8e4a-095e-48c56ff0519e",
+            "rank": "normal"
+          }
+        ],
+        "P1051": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1051",
+              "hash": "15304c9be5e4a5263157c8d4f4c019aaf2d38407",
+              "datavalue": {
+                "value": "7164",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q131476$FA7911C0-B901-4E41-8B60-325975DDB397",
+            "rank": "normal"
+          }
+        ],
+        "P244": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P244",
+              "hash": "984e9ae72135c630895aab1ab7bcd19051ee9988",
+              "datavalue": {
+                "value": "sh85056471",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P1810": [
+                {
+                  "snaktype": "value",
+                  "property": "P1810",
+                  "hash": "e7c025541ff96343e6a83e41167fbc93d41c49f6",
+                  "datavalue": {
+                    "value": "graph theory",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ],
+              "P4970": [
+                {
+                  "snaktype": "value",
+                  "property": "P4970",
+                  "hash": "2d7024ff4cd299a060fd234cd7763e03f7bf69f9",
+                  "datavalue": {
+                    "value": "theory of graphs",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P1810",
+              "P4970"
+            ],
+            "id": "Q131476$DAC0E584-136D-403F-B33A-1E709B54C9FA",
+            "rank": "normal"
+          }
+        ],
+        "P935": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P935",
+              "hash": "0c26c683d3461926464c14b14f401c98a5793673",
+              "datavalue": {
+                "value": "Graph theory",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q131476$FABA21CC-DF3F-482E-BDFD-F13ED678697A",
+            "rank": "normal"
+          }
+        ],
+        "P2812": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2812",
+              "hash": "f696a8b716233af20c1f3df1962cdc65102c66b3",
+              "datavalue": {
+                "value": "GraphTheory",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q131476$9ce24987-4bc9-9322-55f3-0eaa1d46e7ef",
+            "rank": "normal"
+          }
+        ],
+        "P1417": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1417",
+              "hash": "adec8571b4f4151bcbe1b26f479ff0e3e48bce9b",
+              "datavalue": {
+                "value": "topic/graph-theory",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q131476$7212f4a1-42fc-b43c-d952-c281d2a05861",
+            "rank": "normal"
+          }
+        ],
+        "P3285": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3285",
+              "hash": "1debaf543380539cf189c3074b8f1e90a66dd7ec",
+              "datavalue": {
+                "value": "05Cxx",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q131476$d7181afe-4400-7125-43da-1cc0abdb7714",
+            "rank": "normal"
+          }
+        ],
+        "P3417": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3417",
+              "hash": "f0a22996747090fc5c2877fec6d896aef5059d3f",
+              "datavalue": {
+                "value": "Graph-Theory",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q131476$C7B3BCBB-615E-4CA2-ADAB-D41044C16B2B",
+            "rank": "normal"
+          }
+        ],
+        "P508": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P508",
+              "hash": "a0f0d5081c73ae010dca1fcf46fcfb9f04128ac3",
+              "datavalue": {
+                "value": "57127",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q131476$BD4446E2-0790-459B-AD2E-A9EC219EA778",
+            "rank": "normal"
+          }
+        ],
+        "P3827": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3827",
+              "hash": "4207ba6089438928862db408357343751960ed2b",
+              "datavalue": {
+                "value": "graph-theory",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q131476$CE7DD0FD-2A90-48C8-B0E5-BD60F4B1BB72",
+            "rank": "normal"
+          }
+        ],
+        "P3916": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3916",
+              "hash": "61268fbbe0d8325c88361d4cc53d3cc3953eac9a",
+              "datavalue": {
+                "value": "concept5635",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q131476$3737F702-FE54-4951-8575-6014DE9832E2",
+            "rank": "normal"
+          }
+        ],
+        "P2578": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2578",
+              "hash": "dd86d655f547f4f81ba5355ef44b498380d8303a",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 141488,
+                  "id": "Q141488"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q131476$b369b9f3-4004-79a4-560e-805ea534e946",
+            "rank": "normal"
+          }
+        ],
+        "P2581": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2581",
+              "hash": "88a78553ea59742fd6fb65ee82967b98189fef88",
+              "datavalue": {
+                "value": "00397107n",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q131476$45FDB931-5FED-40A6-BCF3-00DBA2A42180",
+            "rank": "normal"
+          }
+        ],
+        "P4746": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P4746",
+              "hash": "f286311b1a2e4c737cf5ee0cf6eada5ae77aa74b",
+              "datavalue": {
+                "value": "133657",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q131476$2995ABF9-7621-485D-BCA3-FEF32E118423",
+            "rank": "normal"
+          }
+        ],
+        "P3219": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3219",
+              "hash": "1ffe34d5aa614d032ba961b6911455ca259c50ce",
+              "datavalue": {
+                "value": "theorie-des-graphes",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q131476$C338E04A-A4FE-434A-88B1-173C6008D317",
+            "rank": "normal"
+          }
+        ],
+        "P2924": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2924",
+              "hash": "d56fbb5fc66a95ba98f33fb1a117eef03919084d",
+              "datavalue": {
+                "value": "2376760",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q131476$7FD2E4E9-AD8A-4853-B5FC-A542603DC18D",
+            "rank": "normal"
+          }
+        ],
+        "P2179": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2179",
+              "hash": "1d3824bbff9fb7f36338907bcb5124e6959e2ee4",
+              "datavalue": {
+                "value": "10003633",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q131476$BE9750B5-5FB9-49DA-90D7-B62EF335BACF",
+            "rank": "normal"
+          }
+        ],
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "76550899ff04a58a96afed514ab1cf22e8908771",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 11862829,
+                  "id": "Q11862829"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q131476$4e66db2b-4fa3-01e1-709a-bccc576f6908",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "6531f0231e18e08ad00ce076169e808ffd996f88",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 4671286,
+                  "id": "Q4671286"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q131476$4633FF17-448B-48A2-B029-213FD27C4028",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "83390327f1727105f66cb074b457a73d3b63657f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1936384,
+                  "id": "Q1936384"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q131476$96aa5ca5-43b4-f87c-9fa6-c6fa081e84d2",
+            "rank": "normal"
+          }
+        ],
+        "P527": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P527",
+              "hash": "df92db48cdd3fbfc56175f5f6e2566fae0cc6ddb",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1192971,
+                  "id": "Q1192971"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q131476$3ac77344-4dde-fac2-5ab8-1295d2a185d3",
+            "rank": "normal"
+          }
+        ],
+        "P6564": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6564",
+              "hash": "d0c806d9add9ae5c186a3f31fcd391029bdadae7",
+              "datavalue": {
+                "value": "graph-theory",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q131476$84458032-4b1b-069e-68a9-1986114484f7",
+            "rank": "normal"
+          }
+        ],
+        "P4211": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P4211",
+              "hash": "a597f749fb31f2b3d8b688b9d41ce47ee9c4b13f",
+              "datavalue": {
+                "value": "10141",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q131476$95BAB5B7-BEFD-4ADC-850A-19F7E0AD5127",
+            "rank": "normal"
+          }
+        ],
+        "P1245": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1245",
+              "hash": "22dcee3d4ecde579777167247ec7eabcad44cc77",
+              "datavalue": {
+                "value": "1099090",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q131476$4AB24B9E-793B-445C-8F20-7C8971F54580",
+            "rank": "normal"
+          }
+        ],
+        "P18": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P18",
+              "hash": "729db532198f424c2917a029c04d8c567e7e3838",
+              "datavalue": {
+                "value": "6n-graf.svg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q131476$468a6ee8-44c7-6759-0ea2-87c0e9aa6192",
+            "rank": "normal"
+          }
+        ],
+        "P61": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P61",
+              "hash": "0e6d103dba3ae34a8d9f7ed2d48965e0a5ba93b1",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 7604,
+                  "id": "Q7604"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q131476$a8bfce4f-4265-4d7c-3555-2c616ddf220b",
+            "rank": "normal"
+          }
+        ],
+        "P6366": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6366",
+              "hash": "9a3b841da296cdd6c66d095cea4df01de45c8a09",
+              "datavalue": {
+                "value": "88230418",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P1810": [
+                {
+                  "snaktype": "value",
+                  "property": "P1810",
+                  "hash": "5910f6ab1015040abf1f09aef395a9b07df5701c",
+                  "datavalue": {
+                    "value": "Graph theory",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P1810"
+            ],
+            "id": "Q131476$29F40DF5-7358-4842-B7B3-6C878A2655E7",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6366",
+              "hash": "4389dbb43cd644aea8e0344c88c30358a37cff64",
+              "datavalue": {
+                "value": "2910297596",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P1810": [
+                {
+                  "snaktype": "value",
+                  "property": "P1810",
+                  "hash": "c91cfb29670c121a59491f213bff5c8f31064415",
+                  "datavalue": {
+                    "value": "Mathematical Graph",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P1810"
+            ],
+            "id": "Q131476$EEBDD3B2-EAB2-4EF6-B39B-047E08ED0A49",
+            "rank": "normal"
+          }
+        ],
+        "P8408": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P8408",
+              "hash": "505d59ac3be5fafaeb85038c328e934f62ebcc73",
+              "datavalue": {
+                "value": "GraphTheory",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q131476$A7DA4172-1938-40E1-801D-A9DBC62AC9A3",
+            "rank": "normal"
+          }
+        ],
+        "P7982": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P7982",
+              "hash": "32301211e67799c9b6055d7929db92c55ee71966",
+              "datavalue": {
+                "value": "70127",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q131476$B2BC8B1E-9291-4CB5-8228-8E2973369686",
+            "rank": "normal"
+          }
+        ],
+        "P268": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P268",
+              "hash": "b62c8d3ae2f91888e69dedaa684237acbfbb6926",
+              "datavalue": {
+                "value": "119384413",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P1810": [
+                {
+                  "snaktype": "value",
+                  "property": "P1810",
+                  "hash": "19a0696ca607caedef3ef2e56c6f748c5836ecb2",
+                  "datavalue": {
+                    "value": "Graphes, Th\u00e9orie des",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P1810"
+            ],
+            "id": "Q131476$c094073a-cf44-492f-bdcb-e441f28cf976",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "6a87d8687faa7c266cefa26f7f62c7d7e7d17e05",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "3b090a7bae73c288393b2c8b9846cc7ed9a58f91",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 16583225,
+                          "id": "Q16583225"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "9ee485406d7ce334d2816189d81223f786b06ab9",
+                      "datavalue": {
+                        "value": "https://thes.bncf.firenze.sbn.it/termine.php?id=57127",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "6ae3be8bc564afd93aa3bd0f3af2aacae338fda0",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2021-06-17T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P3553": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3553",
+              "hash": "2bff1d309e866906eb3e77dacfdc31deb28d6056",
+              "datavalue": {
+                "value": "19582618",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q131476$D4462D66-BDE8-4F55-8DA1-29C69ADF4137",
+            "rank": "normal"
+          }
+        ],
+        "P7305": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P7305",
+              "hash": "4f0758b7179e6ba3daec840f12547b4a44c23f54",
+              "datavalue": {
+                "value": "3907414",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q131476$D1F0484C-AFD3-4D0A-A57B-9ADE1C646FA5",
+            "rank": "normal"
+          }
+        ],
+        "P1036": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1036",
+              "hash": "4b9003af0ae447ab1a4f1774ba6c695220adf808",
+              "datavalue": {
+                "value": "511.5",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q131476$121b4b9f-4ef0-889a-3ff4-44d413cad2dc",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "6fabc16735aaa0a397c8543540ec4f131f79197b",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "019a50b7de741e0068bde41c9d9955b22a5de47b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 36578,
+                          "id": "Q36578"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P227": [
+                    {
+                      "snaktype": "value",
+                      "property": "P227",
+                      "hash": "bc6daee0de13ec48e3404c0e6f6c6b703d165b41",
+                      "datavalue": {
+                        "value": "4113782-6",
+                        "type": "string"
+                      },
+                      "datatype": "external-id"
+                    }
+                  ],
+                  "P407": [
+                    {
+                      "snaktype": "value",
+                      "property": "P407",
+                      "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 188,
+                          "id": "Q188"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "44e64066d6db37fced2d3d25e0a450200dc72f83",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2021-09-02T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P227",
+                  "P407",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P8189": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P8189",
+              "hash": "cc882dd75f0b710f12b71b3488ac17f481220545",
+              "datavalue": {
+                "value": "987007538432705171",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q131476$263D93E5-B3D3-4184-8595-9523DFFF8B86",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "c8a47202c92936005b390eb36ddd267921b51f43",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "0ea73b3596b49258a7b7ec6495950779b99e875d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 188915,
+                          "id": "Q188915"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248"
+                ]
+              }
+            ]
+          }
+        ],
+        "P10283": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P10283",
+              "hash": "af332aaee561b934f385d5e6d71e05f4b27a2a27",
+              "datavalue": {
+                "value": "C88230418",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q131476$75654E33-FE88-4222-8279-BDE9F1B3D1A0",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "c13ba4d7902ead2693f79396bc25bd35d4d14030",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "4a4f26a5361b5707266e48e425bf2be2f99fd2ab",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 107507571,
+                          "id": "Q107507571"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "435834d08182bb9f3dbe974ba9840af0f12899cc",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2022-01-26T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ],
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "a4a4bf53f22268815c51ec10fed608da703c9c7f",
+                      "datavalue": {
+                        "value": "https://docs.openalex.org/download-snapshot/snapshot-data-format",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P813",
+                  "P854"
+                ]
+              }
+            ]
+          }
+        ],
+        "P8313": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P8313",
+              "hash": "aa8cc3c59b9e99740fdd1f38f157048c55391883",
+              "datavalue": {
+                "value": "grafteori",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q131476$1F425BBD-2253-407B-ADEA-C0B3BF08DB2D",
+            "rank": "normal"
+          }
+        ],
+        "P691": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P691",
+              "hash": "1a2515505529d313175180b0a6cbe1f9bfc71af8",
+              "datavalue": {
+                "value": "ph126555",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q131476$0033A78E-3114-4F9E-BAB2-2C3B3BA12FCA",
+            "rank": "normal"
+          }
+        ],
+        "P5008": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5008",
+              "hash": "136e3fbe19158e73e4bfebf3f2d98a9df8638b7e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 6173448,
+                  "id": "Q6173448"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "7661f66dd5b82a1ea92515ddb16c09ce3088edea",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-10-31T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P585"
+            ],
+            "id": "Q131476$B02CE3FA-D3FA-4A3E-9A18-F9B899C08D5B",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "amwiki": {
+          "site": "amwiki",
+          "title": "\u1225\u1290 \u130d\u122b\u134d",
+          "badges": [],
+          "url": "https://am.wikipedia.org/wiki/%E1%88%A5%E1%8A%90_%E1%8C%8D%E1%88%AB%E1%8D%8D"
+        },
+        "anwiki": {
+          "site": "anwiki",
+          "title": "Teor\u00eda de grafos",
+          "badges": [],
+          "url": "https://an.wikipedia.org/wiki/Teor%C3%ADa_de_grafos"
+        },
+        "arwiki": {
+          "site": "arwiki",
+          "title": "\u0646\u0638\u0631\u064a\u0629 \u0627\u0644\u0628\u064a\u0627\u0646",
+          "badges": [],
+          "url": "https://ar.wikipedia.org/wiki/%D9%86%D8%B8%D8%B1%D9%8A%D8%A9_%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86"
+        },
+        "astwiki": {
+          "site": "astwiki",
+          "title": "Teor\u00eda de grafos",
+          "badges": [],
+          "url": "https://ast.wikipedia.org/wiki/Teor%C3%ADa_de_grafos"
+        },
+        "azwiki": {
+          "site": "azwiki",
+          "title": "Qraf n\u0259z\u0259riyy\u0259si",
+          "badges": [],
+          "url": "https://az.wikipedia.org/wiki/Qraf_n%C9%99z%C9%99riyy%C9%99si"
+        },
+        "bawiki": {
+          "site": "bawiki",
+          "title": "\u0413\u0440\u0430\u0444\u0442\u0430\u0440 \u0442\u0435\u043e\u0440\u0438\u044f\u04bb\u044b",
+          "badges": [],
+          "url": "https://ba.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D1%84%D1%82%D0%B0%D1%80_%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F%D2%BB%D1%8B"
+        },
+        "bewiki": {
+          "site": "bewiki",
+          "title": "\u0422\u044d\u043e\u0440\u044b\u044f \u0433\u0440\u0430\u0444\u0430\u045e",
+          "badges": [],
+          "url": "https://be.wikipedia.org/wiki/%D0%A2%D1%8D%D0%BE%D1%80%D1%8B%D1%8F_%D0%B3%D1%80%D0%B0%D1%84%D0%B0%D1%9E"
+        },
+        "bgwiki": {
+          "site": "bgwiki",
+          "title": "\u0422\u0435\u043e\u0440\u0438\u044f \u043d\u0430 \u0433\u0440\u0430\u0444\u0438\u0442\u0435",
+          "badges": [],
+          "url": "https://bg.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%BD%D0%B0_%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%82%D0%B5"
+        },
+        "bnwiki": {
+          "site": "bnwiki",
+          "title": "\u0997\u09cd\u09b0\u09be\u09ab \u09a4\u09a4\u09cd\u09a4\u09cd\u09ac",
+          "badges": [],
+          "url": "https://bn.wikipedia.org/wiki/%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AB_%E0%A6%A4%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%AC"
+        },
+        "bswiki": {
+          "site": "bswiki",
+          "title": "Teorija grafova",
+          "badges": [],
+          "url": "https://bs.wikipedia.org/wiki/Teorija_grafova"
+        },
+        "cawiki": {
+          "site": "cawiki",
+          "title": "Teoria de grafs",
+          "badges": [],
+          "url": "https://ca.wikipedia.org/wiki/Teoria_de_grafs"
+        },
+        "ckbwiki": {
+          "site": "ckbwiki",
+          "title": "\u062a\u06cc\u06c6\u0631\u06cc\u06cc \u06af\u0631\u0627\u0641",
+          "badges": [],
+          "url": "https://ckb.wikipedia.org/wiki/%D8%AA%DB%8C%DB%86%D8%B1%DB%8C%DB%8C_%DA%AF%D8%B1%D8%A7%D9%81"
+        },
+        "commonswiki": {
+          "site": "commonswiki",
+          "title": "Graph theory",
+          "badges": [],
+          "url": "https://commons.wikimedia.org/wiki/Graph_theory"
+        },
+        "cswiki": {
+          "site": "cswiki",
+          "title": "Teorie graf\u016f",
+          "badges": [],
+          "url": "https://cs.wikipedia.org/wiki/Teorie_graf%C5%AF"
+        },
+        "cvwiki": {
+          "site": "cvwiki",
+          "title": "\u0413\u0440\u0430\u0444\u0441\u0435\u043d \u0442\u0435\u043e\u0440\u0438\u0439\u0115",
+          "badges": [],
+          "url": "https://cv.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D1%84%D1%81%D0%B5%D0%BD_%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D0%B9%C4%95"
+        },
+        "cywiki": {
+          "site": "cywiki",
+          "title": "Damcaniaeth graffiau",
+          "badges": [],
+          "url": "https://cy.wikipedia.org/wiki/Damcaniaeth_graffiau"
+        },
+        "dawiki": {
+          "site": "dawiki",
+          "title": "Grafteori",
+          "badges": [],
+          "url": "https://da.wikipedia.org/wiki/Grafteori"
+        },
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Graphentheorie",
+          "badges": [],
+          "url": "https://de.wikipedia.org/wiki/Graphentheorie"
+        },
+        "elwiki": {
+          "site": "elwiki",
+          "title": "\u0398\u03b5\u03c9\u03c1\u03af\u03b1 \u03b3\u03c1\u03ac\u03c6\u03c9\u03bd",
+          "badges": [],
+          "url": "https://el.wikipedia.org/wiki/%CE%98%CE%B5%CF%89%CF%81%CE%AF%CE%B1_%CE%B3%CF%81%CE%AC%CF%86%CF%89%CE%BD"
+        },
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Graph theory",
+          "badges": [],
+          "url": "https://en.wikipedia.org/wiki/Graph_theory"
+        },
+        "enwikibooks": {
+          "site": "enwikibooks",
+          "title": "Graph Theory",
+          "badges": [],
+          "url": "https://en.wikibooks.org/wiki/Graph_Theory"
+        },
+        "enwikiquote": {
+          "site": "enwikiquote",
+          "title": "Graph theory",
+          "badges": [],
+          "url": "https://en.wikiquote.org/wiki/Graph_theory"
+        },
+        "eowiki": {
+          "site": "eowiki",
+          "title": "Grafeteorio",
+          "badges": [],
+          "url": "https://eo.wikipedia.org/wiki/Grafeteorio"
+        },
+        "eswiki": {
+          "site": "eswiki",
+          "title": "Teor\u00eda de grafos",
+          "badges": [],
+          "url": "https://es.wikipedia.org/wiki/Teor%C3%ADa_de_grafos"
+        },
+        "eswikibooks": {
+          "site": "eswikibooks",
+          "title": "Teor\u00eda de grafos",
+          "badges": [],
+          "url": "https://es.wikibooks.org/wiki/Teor%C3%ADa_de_grafos"
+        },
+        "eswikiversity": {
+          "site": "eswikiversity",
+          "title": "Ampliaci\u00f3n de grafos",
+          "badges": [],
+          "url": "https://es.wikiversity.org/wiki/Ampliaci%C3%B3n_de_grafos"
+        },
+        "etwiki": {
+          "site": "etwiki",
+          "title": "Graafiteooria",
+          "badges": [],
+          "url": "https://et.wikipedia.org/wiki/Graafiteooria"
+        },
+        "euwiki": {
+          "site": "euwiki",
+          "title": "Grafo teoria",
+          "badges": [],
+          "url": "https://eu.wikipedia.org/wiki/Grafo_teoria"
+        },
+        "fawiki": {
+          "site": "fawiki",
+          "title": "\u0646\u0638\u0631\u06cc\u0647 \u06af\u0631\u0627\u0641",
+          "badges": [],
+          "url": "https://fa.wikipedia.org/wiki/%D9%86%D8%B8%D8%B1%DB%8C%D9%87_%DA%AF%D8%B1%D8%A7%D9%81"
+        },
+        "fiwiki": {
+          "site": "fiwiki",
+          "title": "Verkkoteoria",
+          "badges": [],
+          "url": "https://fi.wikipedia.org/wiki/Verkkoteoria"
+        },
+        "frwiki": {
+          "site": "frwiki",
+          "title": "Th\u00e9orie des graphes",
+          "badges": [],
+          "url": "https://fr.wikipedia.org/wiki/Th%C3%A9orie_des_graphes"
+        },
+        "frwikiversity": {
+          "site": "frwikiversity",
+          "title": "Th\u00e9orie des graphes",
+          "badges": [],
+          "url": "https://fr.wikiversity.org/wiki/Th%C3%A9orie_des_graphes"
+        },
+        "glwiki": {
+          "site": "glwiki",
+          "title": "Teor\u00eda de grafos",
+          "badges": [],
+          "url": "https://gl.wikipedia.org/wiki/Teor%C3%ADa_de_grafos"
+        },
+        "hewiki": {
+          "site": "hewiki",
+          "title": "\u05ea\u05d5\u05e8\u05ea \u05d4\u05d2\u05e8\u05e4\u05d9\u05dd",
+          "badges": [],
+          "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%95%D7%A8%D7%AA_%D7%94%D7%92%D7%A8%D7%A4%D7%99%D7%9D"
+        },
+        "hiwiki": {
+          "site": "hiwiki",
+          "title": "\u0917\u094d\u0930\u093e\u092b\u093c \u0938\u093f\u0926\u094d\u0927\u093e\u0928\u094d\u0924",
+          "badges": [],
+          "url": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AB%E0%A4%BC_%E0%A4%B8%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4"
+        },
+        "hrwiki": {
+          "site": "hrwiki",
+          "title": "Teorija grafova",
+          "badges": [],
+          "url": "https://hr.wikipedia.org/wiki/Teorija_grafova"
+        },
+        "huwiki": {
+          "site": "huwiki",
+          "title": "Gr\u00e1felm\u00e9let",
+          "badges": [],
+          "url": "https://hu.wikipedia.org/wiki/Gr%C3%A1felm%C3%A9let"
+        },
+        "hywiki": {
+          "site": "hywiki",
+          "title": "\u0533\u0580\u0561\u0586\u0576\u0565\u0580\u056b \u057f\u0565\u057d\u0578\u0582\u0569\u0575\u0578\u0582\u0576",
+          "badges": [],
+          "url": "https://hy.wikipedia.org/wiki/%D4%B3%D6%80%D5%A1%D6%86%D5%B6%D5%A5%D6%80%D5%AB_%D5%BF%D5%A5%D5%BD%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6"
+        },
+        "idwiki": {
+          "site": "idwiki",
+          "title": "Teori graf",
+          "badges": [],
+          "url": "https://id.wikipedia.org/wiki/Teori_graf"
+        },
+        "iswiki": {
+          "site": "iswiki",
+          "title": "Netafr\u00e6\u00f0i",
+          "badges": [],
+          "url": "https://is.wikipedia.org/wiki/Netafr%C3%A6%C3%B0i"
+        },
+        "itwiki": {
+          "site": "itwiki",
+          "title": "Teoria dei grafi",
+          "badges": [],
+          "url": "https://it.wikipedia.org/wiki/Teoria_dei_grafi"
+        },
+        "jawiki": {
+          "site": "jawiki",
+          "title": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "badges": [],
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%95%E7%90%86%E8%AB%96"
+        },
+        "jawikibooks": {
+          "site": "jawikibooks",
+          "title": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "badges": [],
+          "url": "https://ja.wikibooks.org/wiki/%E3%82%B0%E3%83%A9%E3%83%95%E7%90%86%E8%AB%96"
+        },
+        "kawiki": {
+          "site": "kawiki",
+          "title": "\u10d2\u10e0\u10d0\u10e4\u10d7\u10d0 \u10d7\u10d4\u10dd\u10e0\u10d8\u10d0",
+          "badges": [],
+          "url": "https://ka.wikipedia.org/wiki/%E1%83%92%E1%83%A0%E1%83%90%E1%83%A4%E1%83%97%E1%83%90_%E1%83%97%E1%83%94%E1%83%9D%E1%83%A0%E1%83%98%E1%83%90"
+        },
+        "kkwiki": {
+          "site": "kkwiki",
+          "title": "\u0413\u0440\u0430\u0444\u0442\u0430\u0440 \u0442\u0435\u043e\u0440\u0438\u044f\u0441\u044b",
+          "badges": [],
+          "url": "https://kk.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D1%84%D1%82%D0%B0%D1%80_%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F%D1%81%D1%8B"
+        },
+        "kowiki": {
+          "site": "kowiki",
+          "title": "\uadf8\ub798\ud504 \uc774\ub860",
+          "badges": [],
+          "url": "https://ko.wikipedia.org/wiki/%EA%B7%B8%EB%9E%98%ED%94%84_%EC%9D%B4%EB%A1%A0"
+        },
+        "kywiki": {
+          "site": "kywiki",
+          "title": "\u0413\u0440\u0430\u0444\u0442\u0430\u0440 \u0442\u0435\u043e\u0440\u0438\u044f\u0441\u044b",
+          "badges": [],
+          "url": "https://ky.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D1%84%D1%82%D0%B0%D1%80_%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F%D1%81%D1%8B"
+        },
+        "ltwiki": {
+          "site": "ltwiki",
+          "title": "Graf\u0173 teorija",
+          "badges": [],
+          "url": "https://lt.wikipedia.org/wiki/Graf%C5%B3_teorija"
+        },
+        "lvwiki": {
+          "site": "lvwiki",
+          "title": "Grafu teorija",
+          "badges": [],
+          "url": "https://lv.wikipedia.org/wiki/Grafu_teorija"
+        },
+        "mkwiki": {
+          "site": "mkwiki",
+          "title": "\u0422\u0435\u043e\u0440\u0438\u0458\u0430 \u043d\u0430 \u0433\u0440\u0430\u0444\u043e\u0432\u0438",
+          "badges": [],
+          "url": "https://mk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0_%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%B2%D0%B8"
+        },
+        "mnwiki": {
+          "site": "mnwiki",
+          "title": "\u0413\u0440\u0430\u0444\u044b\u043d \u043e\u043d\u043e\u043b",
+          "badges": [],
+          "url": "https://mn.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D1%84%D1%8B%D0%BD_%D0%BE%D0%BD%D0%BE%D0%BB"
+        },
+        "mswiki": {
+          "site": "mswiki",
+          "title": "Teori graf",
+          "badges": [],
+          "url": "https://ms.wikipedia.org/wiki/Teori_graf"
+        },
+        "mtwiki": {
+          "site": "mtwiki",
+          "title": "Teorija tal-grafi",
+          "badges": [],
+          "url": "https://mt.wikipedia.org/wiki/Teorija_tal-grafi"
+        },
+        "nlwiki": {
+          "site": "nlwiki",
+          "title": "Grafentheorie",
+          "badges": [],
+          "url": "https://nl.wikipedia.org/wiki/Grafentheorie"
+        },
+        "nnwiki": {
+          "site": "nnwiki",
+          "title": "Grafteori",
+          "badges": [],
+          "url": "https://nn.wikipedia.org/wiki/Grafteori"
+        },
+        "nowiki": {
+          "site": "nowiki",
+          "title": "Grafteori",
+          "badges": [],
+          "url": "https://no.wikipedia.org/wiki/Grafteori"
+        },
+        "plwiki": {
+          "site": "plwiki",
+          "title": "Teoria graf\u00f3w",
+          "badges": [],
+          "url": "https://pl.wikipedia.org/wiki/Teoria_graf%C3%B3w"
+        },
+        "ptwiki": {
+          "site": "ptwiki",
+          "title": "Teoria dos grafos",
+          "badges": [],
+          "url": "https://pt.wikipedia.org/wiki/Teoria_dos_grafos"
+        },
+        "rowiki": {
+          "site": "rowiki",
+          "title": "Teoria grafurilor",
+          "badges": [],
+          "url": "https://ro.wikipedia.org/wiki/Teoria_grafurilor"
+        },
+        "ruwiki": {
+          "site": "ruwiki",
+          "title": "\u0422\u0435\u043e\u0440\u0438\u044f \u0433\u0440\u0430\u0444\u043e\u0432",
+          "badges": [],
+          "url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%B2"
+        },
+        "scnwiki": {
+          "site": "scnwiki",
+          "title": "Tiuria d\u00ee grafi",
+          "badges": [],
+          "url": "https://scn.wikipedia.org/wiki/Tiuria_d%C3%AE_grafi"
+        },
+        "shwiki": {
+          "site": "shwiki",
+          "title": "Teorija grafova",
+          "badges": [],
+          "url": "https://sh.wikipedia.org/wiki/Teorija_grafova"
+        },
+        "simplewiki": {
+          "site": "simplewiki",
+          "title": "Graph theory",
+          "badges": [],
+          "url": "https://simple.wikipedia.org/wiki/Graph_theory"
+        },
+        "skwiki": {
+          "site": "skwiki",
+          "title": "Te\u00f3ria grafov",
+          "badges": [],
+          "url": "https://sk.wikipedia.org/wiki/Te%C3%B3ria_grafov"
+        },
+        "slwiki": {
+          "site": "slwiki",
+          "title": "Teorija grafov",
+          "badges": [],
+          "url": "https://sl.wikipedia.org/wiki/Teorija_grafov"
+        },
+        "srwiki": {
+          "site": "srwiki",
+          "title": "\u0422\u0435\u043e\u0440\u0438\u0458\u0430 \u0433\u0440\u0430\u0444\u043e\u0432\u0430",
+          "badges": [],
+          "url": "https://sr.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%98%D0%B0_%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%B2%D0%B0"
+        },
+        "svwiki": {
+          "site": "svwiki",
+          "title": "Grafteori",
+          "badges": [],
+          "url": "https://sv.wikipedia.org/wiki/Grafteori"
+        },
+        "tawiki": {
+          "site": "tawiki",
+          "title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bc1\u0bb5\u0bbf\u0baf\u0bb2\u0bcd",
+          "badges": [],
+          "url": "https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AF%8B%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%B0%E0%AF%81%E0%AE%B5%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D"
+        },
+        "tgwiki": {
+          "site": "tgwiki",
+          "title": "\u041d\u0430\u0437\u0430\u0440\u0438\u044f\u0438 \u0433\u0440\u0430\u0444\u04b3\u043e",
+          "badges": [],
+          "url": "https://tg.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%B8%D1%8F%D0%B8_%D0%B3%D1%80%D0%B0%D1%84%D2%B3%D0%BE"
+        },
+        "thwiki": {
+          "site": "thwiki",
+          "title": "\u0e17\u0e24\u0e29\u0e0e\u0e35\u0e01\u0e23\u0e32\u0e1f",
+          "badges": [],
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%97%E0%B8%A4%E0%B8%A9%E0%B8%8E%E0%B8%B5%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%9F"
+        },
+        "tlwiki": {
+          "site": "tlwiki",
+          "title": "Teorya ng grap",
+          "badges": [],
+          "url": "https://tl.wikipedia.org/wiki/Teorya_ng_grap"
+        },
+        "trwiki": {
+          "site": "trwiki",
+          "title": "\u00c7izge teorisi",
+          "badges": [],
+          "url": "https://tr.wikipedia.org/wiki/%C3%87izge_teorisi"
+        },
+        "ukwiki": {
+          "site": "ukwiki",
+          "title": "\u0422\u0435\u043e\u0440\u0456\u044f \u0433\u0440\u0430\u0444\u0456\u0432",
+          "badges": [],
+          "url": "https://uk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D1%96%D1%8F_%D0%B3%D1%80%D0%B0%D1%84%D1%96%D0%B2"
+        },
+        "urwiki": {
+          "site": "urwiki",
+          "title": "\u0646\u0638\u0631\u06cc\u06c2 \u06af\u0631\u0627\u0641",
+          "badges": [],
+          "url": "https://ur.wikipedia.org/wiki/%D9%86%D8%B8%D8%B1%DB%8C%DB%82_%DA%AF%D8%B1%D8%A7%D9%81"
+        },
+        "viwiki": {
+          "site": "viwiki",
+          "title": "L\u00fd thuy\u1ebft \u0111\u1ed3 th\u1ecb",
+          "badges": [],
+          "url": "https://vi.wikipedia.org/wiki/L%C3%BD_thuy%E1%BA%BFt_%C4%91%E1%BB%93_th%E1%BB%8B"
+        },
+        "wuuwiki": {
+          "site": "wuuwiki",
+          "title": "\u56fe\u8bba",
+          "badges": [],
+          "url": "https://wuu.wikipedia.org/wiki/%E5%9B%BE%E8%AE%BA"
+        },
+        "zh_yuewiki": {
+          "site": "zh_yuewiki",
+          "title": "\u5716\u8ad6",
+          "badges": [],
+          "url": "https://zh-yue.wikipedia.org/wiki/%E5%9C%96%E8%AB%96"
+        },
+        "zhwiki": {
+          "site": "zhwiki",
+          "title": "\u56fe\u8bba",
+          "badges": [],
+          "url": "https://zh.wikipedia.org/wiki/%E5%9B%BE%E8%AE%BA"
+        }
+      }
+    }
+  }
+}

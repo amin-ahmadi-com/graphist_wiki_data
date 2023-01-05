@@ -1,0 +1,104 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "sroffset": 10,
+    "continue": "-||"
+  },
+  "query": {
+    "searchinfo": {
+      "totalhits": 20849
+    },
+    "search": [
+      {
+        "ns": 0,
+        "title": "Q3130",
+        "pageid": 4119,
+        "size": null,
+        "wordcount": 0,
+        "snippet": "capital city of New South Wales, Australia",
+        "timestamp": "2022-11-20T16:00:06Z"
+      },
+      {
+        "ns": 0,
+        "title": "Q932261",
+        "pageid": 882564,
+        "size": null,
+        "wordcount": 0,
+        "snippet": "community in Nova Scotia, Canada",
+        "timestamp": "2022-11-24T07:39:56Z"
+      },
+      {
+        "ns": 0,
+        "title": "Q17581",
+        "pageid": 20410,
+        "size": null,
+        "wordcount": 0,
+        "snippet": "international airport serving Sydney, Australia",
+        "timestamp": "2022-10-24T11:56:21Z"
+      },
+      {
+        "ns": 0,
+        "title": "Q18915128",
+        "pageid": 20472343,
+        "size": null,
+        "wordcount": 0,
+        "snippet": "unisex given name",
+        "timestamp": "2021-04-13T04:01:47Z"
+      },
+      {
+        "ns": 0,
+        "title": "Q487556",
+        "pageid": 458910,
+        "size": null,
+        "wordcount": 0,
+        "snippet": "Australian university founded in 1850",
+        "timestamp": "2022-11-24T04:04:59Z"
+      },
+      {
+        "ns": 0,
+        "title": "Q1852577",
+        "pageid": 1783085,
+        "size": null,
+        "wordcount": 0,
+        "snippet": "central business district of Sydney, New South Wales, Australia",
+        "timestamp": "2022-08-20T04:15:59Z"
+      },
+      {
+        "ns": 0,
+        "title": "Q330143",
+        "pageid": 316627,
+        "size": null,
+        "wordcount": 0,
+        "snippet": "Association football club based in Sydney, Australia",
+        "timestamp": "2022-11-23T17:51:55Z"
+      },
+      {
+        "ns": 0,
+        "title": "Q8544",
+        "pageid": 9857,
+        "size": null,
+        "wordcount": 0,
+        "snippet": "Games of the XXVII Olympiad, in Sydney, Australia",
+        "timestamp": "2022-11-24T18:40:27Z"
+      },
+      {
+        "ns": 0,
+        "title": "Q1145731",
+        "pageid": 1092322,
+        "size": null,
+        "wordcount": 0,
+        "snippet": "university in Sydney, Australia",
+        "timestamp": "2022-09-11T12:49:31Z"
+      },
+      {
+        "ns": 0,
+        "title": "Q1141452",
+        "pageid": 1088136,
+        "size": null,
+        "wordcount": 0,
+        "snippet": "university in Sydney, Australia",
+        "timestamp": "2022-10-09T09:26:08Z"
+      }
+    ]
+  }
+}

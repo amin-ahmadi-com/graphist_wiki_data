@@ -32,6 +32,10 @@ class WikiDataEntityNode extends Node {
           labelProperty: "title",
           uniqueProperty: "entityId",
           urlProperty: "wikiUrl",
+          icon: const NodeIcon(
+            fontFamily: "MaterialIcons",
+            codePoint: 0xe559, // School icon
+          ),
         );
 
   @override
