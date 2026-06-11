@@ -1,6 +1,6 @@
 name: graphist_wiki_data
 description: Graphist implementation for Wiki data.
-version: 0.3.0
+version: 0.4.0
 homepage: https://github.com/amin-ahmadi-com/graphist_wiki_data
 
 environment:
