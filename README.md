@@ -8,5 +8,5 @@ To use this package, add `graphist_wiki_data` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  graphist_wiki_data: ^0.4.0
+  graphist_wiki_data: ^0.4.1
 ```

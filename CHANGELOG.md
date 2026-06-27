@@ -1,3 +1,8 @@
+## 0.4.1
+
+* Fixed Wikidata entity parsing when English descriptions or sitelink URLs are missing
+* Fixed async parsing errors escaping `tryFromWikidata`
+
 ## 0.4.0
 
 * Updated dependency graphist to ^0.5.0

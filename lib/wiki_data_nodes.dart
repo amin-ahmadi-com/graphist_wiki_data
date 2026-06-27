@@ -98,11 +98,11 @@ class WikiDataEntityNode extends Node {
   }
 
   static Future<WikiDataEntityNode?> tryFromWikidata(String entityId,
-      {http.Client? client}) {
+      {http.Client? client}) async {
     try {
-      return WikiDataEntityNode._fromWikidata(entityId, client: client);
+      return await WikiDataEntityNode._fromWikidata(entityId, client: client);
     } catch (e) {
-      return Future(() => null);
+      return null;
     }
   }
 
@@ -122,10 +122,12 @@ class WikiDataEntityNode extends Node {
       final enwiki = sitelinks["enwiki"];
       if (enwiki == null) return null;
       final title = enwiki["title"];
-      final url = enwiki["url"];
-      final en = entity["descriptions"]["en"];
-      if (en == null) return null;
-      final description = en["value"];
+      if (title is! String) return null;
+      final url = enwiki["url"] ?? "https://en.wikipedia.org/wiki/$title";
+      if (url is! String) return null;
+      final en = entity["descriptions"]?["en"];
+      final description = en?["value"];
+      if (description != null && description is! String) return null;
       final entityClaims = entity["claims"] as Map;
 
       List<String> claimKeys = entityClaims.keys.map<String>((e) => e).toList();
